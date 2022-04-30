@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="956c53f4-1b0c-4d04-8bad-38aeba807198" name="Changes" comment="level1 : 크레인 인형뽑기 게임">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Solutionpm.kt" afterDir="false" />
+    <list default="true" id="956c53f4-1b0c-4d04-8bad-38aeba807198" name="Changes" comment="level1 : 음양 더하기">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Solutionreport.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650791831377</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="level1 : 음양 더하기">
+      <created>1650856248975</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650856248975</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,7 +106,8 @@
     <MESSAGE value="level1 : 로또의 최고 순위와 최저 순위" />
     <MESSAGE value="level1 : 숫자 문자열과 영단어" />
     <MESSAGE value="level1 : 크레인 인형뽑기 게임" />
-    <option name="LAST_COMMIT_MESSAGE" value="level1 : 크레인 인형뽑기 게임" />
+    <MESSAGE value="level1 : 음양 더하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="level1 : 음양 더하기" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
