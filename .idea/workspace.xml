@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="956c53f4-1b0c-4d04-8bad-38aeba807198" name="Changes" comment="level1 : 신고 결과 받기">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Solutionreport2.kt" afterDir="false" />
+    <list default="true" id="956c53f4-1b0c-4d04-8bad-38aeba807198" name="Changes" comment="level1 : 신고 결과 받기 다른 답안">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Solutiontest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Solutiontest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Solutiontrain.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Solutiontrain.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651328992922</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="level1 : 신고 결과 받기 다른 답안">
+      <created>1651335360118</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651335360121</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,7 +123,8 @@
     <MESSAGE value="level1 : 크레인 인형뽑기 게임" />
     <MESSAGE value="level1 : 음양 더하기" />
     <MESSAGE value="level1 : 신고 결과 받기" />
-    <option name="LAST_COMMIT_MESSAGE" value="level1 : 신고 결과 받기" />
+    <MESSAGE value="level1 : 신고 결과 받기 다른 답안" />
+    <option name="LAST_COMMIT_MESSAGE" value="level1 : 신고 결과 받기 다른 답안" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
