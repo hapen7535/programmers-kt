@@ -1,7 +1,7 @@
 class Solutioncarpet {
 
-    val brown : Int = 24
-    val yellow : Int = 24
+    val brown : Int = 8
+    val yellow : Int = 1
 
     fun solution(brown: Int, yellow: Int): IntArray {
         var answer = intArrayOf()

@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="956c53f4-1b0c-4d04-8bad-38aeba807198" name="Changes" comment="level2 : 소수 찾기">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Solutioncarpet.kt" afterDir="false" />
+    <list default="true" id="956c53f4-1b0c-4d04-8bad-38aeba807198" name="Changes" comment="level2 : 카펫">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Solutiontargetnum.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Solutioncarpet.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Solutioncarpet.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651974946148</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="level2 : 카펫">
+      <created>1651977690511</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1651977690512</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,7 +187,8 @@
     <MESSAGE value="level2 : 가장 큰 수" />
     <MESSAGE value="level2 : H-Index" />
     <MESSAGE value="level2 : 소수 찾기" />
-    <option name="LAST_COMMIT_MESSAGE" value="level2 : 소수 찾기" />
+    <MESSAGE value="level2 : 카펫" />
+    <option name="LAST_COMMIT_MESSAGE" value="level2 : 카펫" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
